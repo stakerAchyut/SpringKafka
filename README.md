@@ -4,10 +4,10 @@ A hands‑on reference project that demonstrates **event‑driven micro‑servic
 
 The repository is organised as a Maven multi‑module workspace:<br>
 SpringKafka/<br>
-├── base-domains/     # Shared DTOs / event payloads<br>
-├── order-service/    # Publishes “order‑placed” events<br>
-├── stock-service/    # Consumes order events → updates inventory<br>
-└── email-service/    # Consumes order events → sends confirmation email<br>
+├── base-domains/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Shared DTOs / event payloads<br>
+├── order-service/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Publishes “order‑placed” events<br>
+├── stock-service/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Consumes order events → updates inventory<br>
+└── email-service/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Consumes order events → sends confirmation email<br>
 
 ---
 
