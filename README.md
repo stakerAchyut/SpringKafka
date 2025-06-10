@@ -21,7 +21,7 @@ SpringKafka/<br>
 | Docker + Docker Compose | `docker compose version` |
 | Kafka 4.0.0 | `kafka-topics.sh --version` |
 
-You should see:
-	•	order-service logs: ✅ published topic=order_events
-	•	stock-service logs: ✅ inventory updated
-	•	email-service logs: ✅ confirmation email sent to demo@xyz.com
+You should see:<br>
+	•	order-service logs: ✅ published topic=order_events<br>
+	•	stock-service logs: ✅ inventory updated<br>
+	•	email-service logs: ✅ confirmation email sent to demo@xyz.com<br>
